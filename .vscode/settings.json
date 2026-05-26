@@ -6,4 +6,7 @@
             "savePath": "/"
         }
     ],
+    "markdown.marp.themes": [
+        "./themes/theme_U.css"
+    ]
 }
